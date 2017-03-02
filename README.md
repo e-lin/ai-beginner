@@ -20,4 +20,10 @@ course link: [https://www.coursera.org/learn/rengong-zhineng/home/info][R1]
 - Week 7: First Order Logic
 - Week 8: Planning
 
+
+### Other Readings
+
+- [ODSC West 16 Keynote Presentation – Jeremy Achin][R2]
+
 [R1]: https://www.coursera.org/learn/rengong-zhineng/home/info
+[R2]: https://www.datarobot.com/blog/jeremy-achin-odsc-west-16-keynote-presentation/
