@@ -74,8 +74,8 @@ Quiz
 4. The depth-Limited search
 5. 14
 6.
-    (X)Because BFS only returns the shortest depth solution, and the uniform-cost search only does the greedy decision.
-    (O) Any path, no matter how bad it appears, might lead to an arbitrarily large reward (negative cost). Therefore, we would need to exhaust all possible paths to ensure to find the optimal path.
+    - (X)Because BFS only returns the shortest depth solution, and the uniform-cost search only does the greedy decision.
+    - (O) Any path, no matter how bad it appears, might lead to an arbitrarily large reward (negative cost). Therefore, we would need to exhaust all possible paths to ensure to find the optimal path.
 7. Simply explore the entire state space
 8.
     (X) Completeness: Yes; optimality: Yes
