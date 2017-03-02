@@ -1,2 +1,10 @@
 # ai-beginner
-My notes of an AI course by NTU on Coursera.
+
+### Overview
+
+Here are my notes for an AI course held by NTU on Coursera.
+course link: [https://www.coursera.org/learn/rengong-zhineng/home/info][R1]
+
+
+
+[R1]: https://www.coursera.org/learn/rengong-zhineng/home/info
