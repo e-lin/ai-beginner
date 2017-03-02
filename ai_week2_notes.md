@@ -78,3 +78,13 @@ Quiz
 8. (X) Completeness: Yes; optimality: Yes (O) Completeness: Yes; optimality: No
 9. Time complexity: O(b^d); space complexity: O(bd)
 
+
+Follow up
+---
+
+- [野人传教士过河问题][R1]
+- [专家系统补充材料 - 人机交互与媒体集成研究所 - 清华大学][R2]
+
+
+[R1]: http://m.blog.csdn.net/article/details?id=51377302
+[R2]: http://media.cs.tsinghua.edu.cn/~ahz/expertsystem/appendesbook.pdf
