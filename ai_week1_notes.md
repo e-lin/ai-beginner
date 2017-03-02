@@ -11,7 +11,6 @@ Quiz
 ---
 
 ### Answer
-
 1.
     (X) Sensors and actuators
     (O) An entity that perceives and acts
