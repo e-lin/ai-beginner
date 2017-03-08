@@ -14,7 +14,7 @@ Quiz
 1. (X) Sensors and actuators (O) An entity that perceives and acts
 2. Strong AI: physical symbol systems which can have a mind and mental states; weak AI: physical symbol systems which can act intelligently
 3. Is expected to maximize goal achievement, given the available information
-4. (X) Performance measure, environment, actuators, sensors
+4. Performance measure, environment, actuators, sensors
 5. All above are mentioned
 6. (X) To test if a machine can evolve itself and finally become a human like robot. (O) A machine’s ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
 7. All of the above
