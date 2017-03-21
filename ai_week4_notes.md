@@ -62,15 +62,24 @@ Notes
     - Recombination: crossover and mutation. (90年以後GA的研究也未必只有這兩種組合)
 
 ### Non-deterministic Action
+    - 沒有sensor的情況下，列出所有可能的狀態(belief states) --> AND-OR Search
     - 實作AND-OR Search就是利用遞迴。
 
 ### Partial Observations
-    - 會造成上述說的多種狀態的形況下，就是我們沒有足夠的觀察能力。我們將利用「belief states」的想法。
+    - 有sensor的情況下，又可以將所有可能的狀態shrink成比較少的belief states。
+    - 應用：localization in a maze.
+
+### Online Search with Unknown Environments
+    - 使用Learning Real-Time A* (LRTA*)
+    - Unlike A*, LRTA* is NOT complete for infinite state spaces.
+    - With n states, LRTA* guarantees to find optimum within O(n^2) steps, but usually much faster.
+    - LRTA*最大的問題就是記憶體。因為有太多state記不住，我們通常會把state對應到另一個feature domain, 當map後的feature是一樣的話就視作同一個state.
 
 
 Sum up
 ---
 
+![Imgur](http://i.imgur.com/ZsoLW6B.png)
 
 
 
@@ -78,15 +87,24 @@ Quiz
 ---
 
 ### Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. (X) a: greedy best first search; b: hill climbing; c: genetic algorithm (O) a: hill climbing; b: hill climbing; c: random walk
+2. In the AND-OR search, AND node only needs to reach goal state in one of the leaves, OR node needs to reach goal state in all leaves.
+3. Yes
+4. (X) Repeated trials (O) Need admissible heuristic at beginning
+5. 6
+6. (X) 1x (X) 2x (O) 3o
+
+1x:
+![Imgur](http://i.imgur.com/0HyLILF.png)
+
+2x:
+![Imgur](http://i.imgur.com/rJhVq4Y.png)
+
+3o:
+![Imgur](http://i.imgur.com/802AXao.png)
+
+7. 3
+8. No
+
 
 [R1]: https://zh.wikipedia.org/wiki/%E5%86%AA
