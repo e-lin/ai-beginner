@@ -14,9 +14,14 @@ course link: [https://www.coursera.org/learn/rengong-zhineng/home/info][R1]
 - Week 2: Uninformed search
     - BFS, Uniform-Cost Search, DFS, DLS, IDS, Bidirectional Search
 - Week 3: Informed search
-    - Best-First Search (Greedy Search, A* Search), Memory Bounded Search (Iterative Deepening A*, RBFS, Simplified Memory-bounded A*), Heuristic (Performance, Generating Heuristics)
+    - Best-First Search (Greedy Search, A* Search)
+    - Memory Bounded Search (Iterative Deepening A*, RBFS, Simplified Memory-bounded A*)
+    - Heuristic (Performance, Generating Heuristics)
 - Week 4: Non-classic search
-    - Black-Box Optimization, Steepest Descent, Simulated Annealing, Evolutionary Computation, Non-deterministic Actions (AND-OR Search), Partial Observations (sensor-less, with sensors, unknownenvironments)
+    - Black-Box Optimization
+    - Steepest Descent, Simulated Annealing, Evolutionary Computation
+    - Non-deterministic Actions (AND-OR Search)
+    - Partial Observations (sensor-less, with sensors, unknownenvironments)
 - Week 5: Adversarial search
 - Week 6: Propositional Logic
 - Week 7: First Order Logic
