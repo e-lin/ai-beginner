@@ -24,6 +24,12 @@ course link: [https://www.coursera.org/learn/rengong-zhineng/home/info][R1]
     - Partial Observations (sensor-less, with sensors, unknownenvironments)
 - Week 5: Adversarial search
 - Week 6: Propositional Logic
+    - Logical Agent
+    - Propositional Logic
+    - Inference
+    - Resolution and CNF
+    - Forward Chaining
+    - Backward Chaining
 - Week 7: First Order Logic
 - Week 8: Planning
 
